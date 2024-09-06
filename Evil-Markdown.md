@@ -4,13 +4,13 @@
 Here is a classroom friendly file: ![image](https://github.com/user-attachments/assets/55d7237e-a608-4f17-9077-4e24556e7125)
 
 
-# Amazon
+### Amazon
 https://www.amazon.com
 
-# Python for Beginners
+### Python for Beginners
 https://www.youtube.com/watch?v=kqtD5dpn9C8
 
-# Python Print Statement
+### Python Print Statement
 `Oh No! I'm in a box.`
 
 ## About Me
