@@ -1,7 +1,7 @@
 # Web & App Development
 ## Bryce Perron
 ### Markdown Practice
-Here is a classroom friendly file: ![image](https://github.com/user-attachments/assets/55d7237e-a608-4f17-9077-4e24556e7125)
+Here is a classroom friendly photo: ![image](https://github.com/user-attachments/assets/55d7237e-a608-4f17-9077-4e24556e7125)
 
 
 ### Amazon
